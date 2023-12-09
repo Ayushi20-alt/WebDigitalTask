@@ -1,6 +1,6 @@
 # WebDigitalTask
 
-I have sucessfully completed the task. In this Application i have used DI, Paging3, Retrofit, Clean Architecture, Jetpack Compose
+I have sucessfully completed the task. In this Application i have used DI, Retrofit, Clean Architecture, Jetpack Compose
 
 #Preview
 
